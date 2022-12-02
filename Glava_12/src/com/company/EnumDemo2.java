@@ -18,3 +18,5 @@ public class EnumDemo2 {
         System.out.println("tp содержит " + tp);
     }
 }
+
+
