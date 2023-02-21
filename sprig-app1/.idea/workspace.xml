@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2e73367-8f73-4c18-8d4f-d71f3555785d" name="Changes" comment="" />
+    <list default="true" id="a2e73367-8f73-4c18-8d4f-d71f3555785d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/musicPlayer.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/Paci/Spring/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/Paci/Spring/MusicPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/Paci/Spring/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/Paci/Spring/TestSpring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/Paci/Spring/MusicPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/Paci/Spring/MusicPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/Paci/Spring/TestSpring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/Paci/Spring/TestSpring.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +82,8 @@
       <option name="presentableId" value="Default" />
       <updated>1669898641780</updated>
       <workItem from="1669898643093" duration="5823000" />
-      <workItem from="1669973309360" duration="1048000" />
+      <workItem from="1669973309360" duration="7113000" />
+      <workItem from="1670916525100" duration="2484000" />
     </task>
     <servers />
   </component>

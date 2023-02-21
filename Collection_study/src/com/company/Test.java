@@ -7,7 +7,7 @@ public class Test {
         double a[] = { 10.0, 5.0, 11.0, 12.0, 1.0, 2.0, 33.0};
 
         double min = a[0];
-        double max = 0;
+        double max = a[0];
         double avg = 0;
 
  //      for(int i = 0; i < a.length; i++ ) {
